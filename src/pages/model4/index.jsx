@@ -32,21 +32,21 @@ const Index = () => {
                     <div className="carousel-item active">
                         <img
                             src={BlueCar}
-                            className="d-block w-100"
+                            className="d-block slider"
                             alt="..."
                         />
                     </div>
                     <div className="carousel-item">
                         <img
                             src={BlueCar}
-                            className="d-block w-100"
+                            className="d-block slider"
                             alt="..."
                         />
                     </div>
                     <div className="carousel-item">
                         <img
                             src={BlueCar}
-                            className="d-block w-100"
+                            className="d-block slider"
                             alt="..."
                         />
                     </div>
